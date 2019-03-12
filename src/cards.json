@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name":
+      "Dragonair",
+      "image":
+        "./imgs/dragonair.png"
+    },
+    {
+      "id": 2,
+      "name":
+      "Dratini",
+      "image":
+        "./imgs/dratini.png"
+    },
+    {
+      "id": 3,
+      "name":
+      "Eevee",
+      "image":
+        "./imgs/eevee.png"
+    },
+    {
+      "id": 4,
+      "name":
+      "Growlithe",
+      "image":
+        "./imgs/growlithe.png"
+    },
+    {
+      "id": 5,
+      "name": 
+      "Houndor",
+      "image":
+        "./imgs/houndor.png"
+    },
+    {
+      "id": 6,
+      "name":
+      "Jolteon",
+      "image":
+        "./imgs/jolteon.png"
+    },
+    {
+      "id": 7,
+      "name":
+      "Mew",
+      "image":
+        "./imgs/mew.png"
+    },
+    {
+      "id": 8,
+      "name": 
+      "Ninetails",
+      "image":
+        "./imgs/ninetails.png"
+    },
+    {
+      "id": 9,
+      "name":
+      "Pikachu",
+      "image":
+        "./imgs/pikachu.png"
+    },
+    {
+      "id": 10,
+      "name":
+      "Suicune",
+      "image":
+        "./imgs/suicune.png"
+    },
+    {
+      "id": 11,
+      "name":
+      "Umbreon",
+      "image":
+        "./imgs/umbreon.png"
+    },
+    {
+      "id": 12,
+      "name":
+      "Vulpix",
+      "image":
+        "./imgs/vulpix.png"
+    }
+  ]
+  

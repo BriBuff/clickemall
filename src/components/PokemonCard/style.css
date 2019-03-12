@@ -1,0 +1,22 @@
+.card {
+    height: 200px;
+    width: 150px;
+    border: red solid 5px;
+    background: white;
+}
+
+img {
+    height: 150px;
+    width: 100px;
+    align-content: center;
+}
+
+.actualImg {
+    display: block;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
