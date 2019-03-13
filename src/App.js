@@ -42,9 +42,9 @@ console.log(id);
 //If Else
 if(!this.state.ids.includes(id)) {
   this.handleIncrement();
+  this.bestScoreUpdate();
 } else{
   this.resetGame();
-  this.bestScoreUpdate();
 }
 }
 
