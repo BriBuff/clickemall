@@ -1,13 +1,13 @@
 {
   "main.css": "/clickemall/static/css/main.97cf3479.chunk.css",
-  "main.js": "/clickemall/static/js/main.3f768cb0.chunk.js",
-  "main.js.map": "/clickemall/static/js/main.3f768cb0.chunk.js.map",
+  "main.js": "/clickemall/static/js/main.d9e4c55f.chunk.js",
+  "main.js.map": "/clickemall/static/js/main.d9e4c55f.chunk.js.map",
   "runtime~main.js": "/clickemall/static/js/runtime~main.b112902e.js",
   "runtime~main.js.map": "/clickemall/static/js/runtime~main.b112902e.js.map",
   "static/js/2.822769df.chunk.js": "/clickemall/static/js/2.822769df.chunk.js",
   "static/js/2.822769df.chunk.js.map": "/clickemall/static/js/2.822769df.chunk.js.map",
   "index.html": "/clickemall/index.html",
-  "precache-manifest.88467dbc8d8bd20bf2792db1de9accc0.js": "/clickemall/precache-manifest.88467dbc8d8bd20bf2792db1de9accc0.js",
+  "precache-manifest.974e23b5093170e3f47362dce7521164.js": "/clickemall/precache-manifest.974e23b5093170e3f47362dce7521164.js",
   "service-worker.js": "/clickemall/service-worker.js",
   "static/css/main.97cf3479.chunk.css.map": "/clickemall/static/css/main.97cf3479.chunk.css.map"
 }
