@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/clickemall/static/js/runtime~main.b112902e.js"
   },
   {
-    "revision": "0dd58cb6878d74ad5361",
-    "url": "/clickemall/static/js/main.aa9218fe.chunk.js"
+    "revision": "b46bdba3a39cc000bbb5",
+    "url": "/clickemall/static/js/main.df7dddee.chunk.js"
   },
   {
     "revision": "ff661de6195320cfc0eb",
     "url": "/clickemall/static/js/2.822769df.chunk.js"
   },
   {
-    "revision": "0dd58cb6878d74ad5361",
+    "revision": "b46bdba3a39cc000bbb5",
     "url": "/clickemall/static/css/main.97cf3479.chunk.css"
   },
   {
-    "revision": "570efc7aba7869f47dac0416bd0642fb",
+    "revision": "c086539b232d298bc0f4761fd32afb08",
     "url": "/clickemall/index.html"
   }
 ];
