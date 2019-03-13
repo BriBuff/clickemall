@@ -20,6 +20,7 @@ showPokemon = () => {
 
 handleIncrement = () => {
   this.setState({ count: this.state.count + 1 });
+  console.log("new", this.state.count);
 };
 
 bestScoreUpdate = () => {
@@ -41,11 +42,15 @@ this.setState({Pokemons: this.shufflePokemon(Pokemons) })
 console.log(id);
 //If Else
 if(!this.state.ids.includes(id)) {
-  this.state.ids.push(id);
+ this.state.ids.push(id);
+//  this.setState({
+//    ids: arr
+//  })
+// const arr = this.state.ids.push(id);
   this.handleIncrement();
-  this.bestScoreUpdate();
 } else{
   this.resetGame();
+  this.bestScoreUpdate();
 }
 }
 
