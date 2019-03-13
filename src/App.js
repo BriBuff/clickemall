@@ -43,10 +43,6 @@ console.log(id);
 //If Else
 if(!this.state.ids.includes(id)) {
  this.state.ids.push(id);
-//  this.setState({
-//    ids: arr
-//  })
-// const arr = this.state.ids.push(id);
   this.handleIncrement();
 } else{
   this.resetGame();
